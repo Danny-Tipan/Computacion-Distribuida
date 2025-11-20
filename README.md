@@ -15,7 +15,7 @@ Este proyecto implementa un cliente del Protocolo de Transferencia de Archivos (
 * Librerías estándar de red de C.
 * Un servidor FTP activo (ej: **vsftpd**) para conectarse.
 
-## ⚙️ Compilación del Proyecto
+## Compilación del Proyecto
 
 El proyecto se compila fácilmente usando el `Makefile` proporcionado:
 
